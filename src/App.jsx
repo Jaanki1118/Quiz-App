@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Quiz-App">
       <div className="app" style={{ backgroundImage: 'url("/quizz-1.avi,f")' }}>
         <Header />
         <Routes>
