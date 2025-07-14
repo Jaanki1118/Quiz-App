@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-image: url('./download.png'); /* if using CSS modules or CRA, this may work */
+  background-image: url('./Quiz-App/quiz-1.avif'); /* if using CSS modules or CRA, this may work */
   background-size: cover;
   background-position: center;
   border: 8ox solid #39445a93;
