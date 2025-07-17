@@ -29,7 +29,7 @@ function App() {
 
   return (
     <BrowserRouter basename="/Quiz-App">
-      <div className="app" style={{ backgroundImage: 'url("/Quiz-App/quizz-1.avif")' }}>
+      <div className="app" style={{ backgroundImage:  }}>
         <Header />
         <Routes>
           <Route
